@@ -1,0 +1,7 @@
+{
+  "name": "NovaCalc AI - The Future of Computation",
+  "description": "A professional-grade, AI-powered calculator featuring unit conversion, real-time currency exchange, image-based math solving, and a smart assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
